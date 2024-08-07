@@ -6,7 +6,6 @@
 }
 
 .main {
-
     padding: 10px;
 }
 
@@ -14,6 +13,7 @@
     height: 150px;
     width: 150px;
     display: inline-block;
+    border-radius: 2%;
  
 }
 
@@ -61,6 +61,5 @@
 }
 
 .mainsection {
-    display: inline-block;
-    margin-right: 10px;
+
 }
